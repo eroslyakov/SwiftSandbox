@@ -2,6 +2,6 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='subscribeOn-receiveOn'/>
-        <page name='DispatchQueue'/>
+        <page name='sandbox'/>
     </pages>
 </playground>
